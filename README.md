@@ -144,9 +144,8 @@ SELECT * FROM audit_log;
 ## 📂 Struktur File
 
 ```
-├── sistem_pembayaran_spp.sql   # Script lengkap: database, tabel, data dummy,
-│                                 stored procedure, function, trigger, index
-└── README.md                    # Dokumentasi projek
+├── sistem_pembayaran_spp.sql   
+└── README.md                    
 ```
 
 ---
